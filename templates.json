@@ -52,6 +52,19 @@
     {
       "name": "Blank",
       "filename": "Blank",
+      "iconCode": "\ue9fe",
+      "categories": [
+        "Creative",
+        "Lines",
+        "Grids",
+        "Life/organize"
+      ]
+    },
+
+
+    {
+      "name": "Blank",
+      "filename": "Blank",
       "iconCode": "\ue9fd",
       "landscape": true,
       "categories": [
